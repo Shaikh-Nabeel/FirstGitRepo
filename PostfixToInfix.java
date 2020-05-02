@@ -1,5 +1,3 @@
-package GeeksForGeeks;
-
 import java.util.Scanner;
 import java.util.Stack;
 
