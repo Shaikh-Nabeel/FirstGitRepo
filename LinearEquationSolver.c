@@ -1,5 +1,5 @@
 #include <stdio.h>
-// #include<search.h>
+
 int gcdExtended(int a, int b, int c){
     int x = 0, lastx = 1 ,y = 1, lasty = 0, temp,gcd; 
     while(b != 0){
