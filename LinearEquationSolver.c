@@ -27,6 +27,7 @@ int gcdExtended(int a, int b, int c){
 
 int main()
 {
+    //a b should greater than 0 and c must divisible by gcd of a and b 
     int a , b, c;
     printf("Enter value of a: ");
     scanf("%d", &a);
